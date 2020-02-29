@@ -1,0 +1,63 @@
+#button{
+    background-color: #C9CEBD;
+    
+}
+
+body{
+    background-color: #838E83;
+    color: #CDD2C3;
+}
+
+.large-text{
+    font-size: 27px;
+}
+
+.repo-link{
+    color: #C9CEBD;
+}
+
+#contact{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#projects{
+    margin-top: 4%;
+}
+
+#about-me{
+    margin-top: 5%;
+    font: #CDD2C3;
+}
+
+#icon{
+    font-size: x-large;
+    margin-right: 2%;
+}
+
+#bio{
+    font: #806261;
+    background-color: #D4CACA;
+}
+
+#info-links{
+    color: #806261;
+    font-size: x-large;
+}
+
+#icon{
+    padding-right: 3%;
+}
+
+a{
+    color: #8E7472;
+}
+
+a:hover {
+    color: #64403E;
+}
+
+.content-1{
+    text-align: center;
+    
+}

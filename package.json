@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-redux",
+  "version": "1.0.0",
+  "description": "New portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ike",
+  "license": "ISC",
+  "dependencies": {
+    "fomantic-ui": "^2.8.3",
+    "gulp": "^4.0.2",
+    "vinyl": "^2.2.0"
+  }
+}
